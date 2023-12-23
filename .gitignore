@@ -1,2 +1,3 @@
 *.egg-info
 scripts/shoreline_maps.ipynb
+scripts/.ipynb_checkpoints/
