@@ -1,3 +1,8 @@
 *.egg-info
-scripts/shoreline_maps.ipynb
-*scripts/.ipynb_checkpoints/
+scripts/.ipynb_checkpoints/
+*.bat
+temp/
+*.pdf
+*.html
+scripts/.ipynb_checkpoints/GeneratedNotebook-checkpoint.ipynb
+
