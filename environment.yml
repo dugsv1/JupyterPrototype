@@ -1,4 +1,4 @@
-name: base
+name: JupyterPrototype
 channels:
   - conda-forge
   - defaults
